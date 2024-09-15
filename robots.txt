@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://batqa.github.io/vYI/sitemap.vYI.gz
